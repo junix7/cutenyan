@@ -1,0 +1,64 @@
+*{
+	margin-top: 5px;
+}
+body{
+	width: 93%;
+	margin: auto;
+}
+h1{
+	font-size: 380%;
+}
+h2{
+	font-size: 280%;
+}
+p,li{
+	font-size: 125%;
+}
+/*header*/
+#header{
+	float: left;
+}
+/*menu*/
+.menu{
+	text-align: right;
+	margin-top: 20px;
+}
+.menu a{
+	color: lightblue;
+	text-decoration: none;
+}
+/*content1*/
+#content1{
+	text-align: center;
+}
+#content1 p{
+	background: blue;
+	padding: 200px;
+	color: white;
+	font-size: 140%;
+}
+/*content2*/
+#content2{
+	width: 70%;
+	display: inline-flex;
+	margin-left: 20%;
+}
+#notice{
+		
+}
+#comissions{
+
+}
+.foss{
+	padding: 25px;
+	background: blue;
+	color: white;
+	margin:25px;
+	width: 50%
+}
+.commi{
+	padding: 25px;
+	background: lightgrey;
+	margin:25px;
+	width: 50%
+}
