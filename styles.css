@@ -3,7 +3,6 @@
 }
 body{
 	width: 93%;
-	margin: auto;
 }
 h1{
 	font-size: 380%;
@@ -17,6 +16,13 @@ p,li{
 /*header*/
 #header{
 	float: left;
+	margin-left: 5%;
+}
+#header h3{
+	float: left;
+	margin-right: 15px;
+	margin-top: 0px;
+	padding-top: 0px;
 }
 /*menu*/
 .menu{
@@ -26,6 +32,7 @@ p,li{
 .menu a{
 	color: lightblue;
 	text-decoration: none;
+	padding: 5px;
 }
 /*content1*/
 #content1{
@@ -36,12 +43,14 @@ p,li{
 	padding: 200px;
 	color: white;
 	font-size: 140%;
+	width: 40%;
+	margin-left: 18%;
 }
 /*content2*/
 #content2{
-	width: 70%;
+	width: 50%;
 	display: inline-flex;
-	margin-left: 20%;
+	margin-left: 30%;
 }
 #notice{
 		
@@ -61,4 +70,77 @@ p,li{
 	background: lightgrey;
 	margin:25px;
 	width: 50%
+}
+/*content3*/
+.content3{
+	width: 35%;
+	margin-left: 30%;
+}
+.content3 a{
+	background: blue;
+	color: white;
+	padding: 20px;
+	text-decoration: none;
+	margin-top: 55px;
+	float: left;
+}
+.content3 p{
+	padding: 50px;
+	width: 50%;
+	margin-left: 20%;
+}
+.electric{
+	background: blue;
+	padding: 25px;
+	color: white;
+	width: 80%;
+}
+.content4{
+	width: 35%;
+	margin-left: 30%;
+}
+.content4 h2{
+	padding-top: 50px;
+}
+/**socials*/
+.socials{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 30px;
+}
+.socials a{
+	color: lightblue;
+	font-size: 155%;
+	text-decoration: none;
+	margin:15px;
+}
+.socials hr{
+	margin-top: 30px;
+}
+/*footer*/
+.footer{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 30px;
+}
+.footer p{
+	color: lightblue;
+}
+.recent{
+	float: left;
+}
+.meta{
+	padding-left: 50%;
+}
+/*nyan*/
+.nyan{
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 30px;
+	padding:40px;
+}
+.nyan a{
+	float: right;
+	color: grey;
+	text-decoration: none;
 }
