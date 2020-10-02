@@ -14,6 +14,7 @@ Este proyecto web, está inspirado en el sitio web de **TYSON TAN** un artista q
 2.- Abre ```index.html``` en tu navegador favorito.
 
 ## Demo 💿️
+![label image](https://github.com/junix7/cutenyan/blob/master/cutenyan_preview.png)
 
 Puedes ver un live demo en la siguiente dirección [Demo](https://junix7.github.io/cutenyan/)
 
