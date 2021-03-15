@@ -1,6 +1,6 @@
 # CuteNyan 😸️ 😸️
 
-![label image](https://img.shields.io/badge/status-in%20progress-yellow)
+![label image](https://img.shields.io/badge/status-finish-brightgreen)
 
 ## Descripción 📝️
 
